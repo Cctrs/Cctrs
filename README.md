@@ -1,4 +1,12 @@
-### Hi there 👋
+### 
+<div id="helloText" align="center">
+Hi there 👋
+</div>
+<div id="badges" align="center">
+    <a href="https://www.instagram.com/cctrsstl/">
+    <img src="https://img.shields.io/badge/Instagram-darkgreen?style=flat-square&logo=instagram" alt="Instagram Badge"/>
+    </a>
+</div>
 
 <!--
 **Cctrs/Cctrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
