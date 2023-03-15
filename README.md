@@ -6,11 +6,14 @@ Hi there 👋
     <a href="https://www.instagram.com/cctrsstl/">
     <img src="https://img.shields.io/badge/Instagram-darkgreen?style=flat-square&logo=instagram" alt="Instagram Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=flat-square&logo=linkedIn" alt="LinkedIn Badge" />
+    <!-- 
+<img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=flat-square&logo=linkedIn" alt="LinkedIn Badge" />
+-->
     <a href="https://t.me/cctrs">
     <img src="https://img.shields.io/badge/Telegram-darkgreen?style=flat-square&logo=telegram" alt="Telegram Badge"/>
     </a>
 </div>
+<!--
 <div id="Skills" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -22,7 +25,7 @@ Hi there 👋
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354201/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-
+-->
 </div>
 <!--
 **Cctrs/Cctrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
