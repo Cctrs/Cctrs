@@ -3,11 +3,9 @@
 Hi there 👋
 </div>
 <div id="badges" align="center">
-    <!-- 
     <a href="https://www.instagram.com/cctrsstl/">
     <img src="https://img.shields.io/badge/Instagram-darkgreen?style=flat-square&logo=instagram" alt="Instagram Badge"/>
     </a>
--->
     <!-- 
 <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=flat-square&logo=linkedIn" alt="LinkedIn Badge" />
 -->
